@@ -32,23 +32,23 @@ Visualizes revenue trends over time and compares historical performance to ident
 Set revenue targets and track performance against benchmarks. The dashboard provides a real-time view of progress toward goals, enabling proactive adjustments to strategies to meet or exceed revenue expectations.
 
 # Methodology
-**1. Defined Objectives and Requirements:**
+**1. Defined Objectives and Requirements :**
 Understood the business requirements.
 Defined the key performance indicators (KPIs) and metrics that need to be visualized. For e.g. RevPAR, DSRN, ADR, Occupancy %, Realisation % etc.
 
-**2. Data Transformation and Cleaning:**
+**2. Data Transformation and Cleaning :**
 Cleansed and transformed the data using power query to ensure it's in a usable format.
 Handled missing data, outliers, and other data quality issues.
 
-**3. Data Modeling:**
+**3. Data Modeling :**
 Designed a data model that represents the relationships between different data tables.
 Defined calculated columns and measures to derive new insights from the data. For e.g. wn, day_type etc.
 
-**4. Implemented DAX (Data Analysis Expressions):**
+**4. Implemented DAX (Data Analysis Expressions) :**
 Used DAX formulas to create advanced calculations and expressions for complex business logic. For e.g. RevPAR, DSRN, DBRN, DURN, Total Successful Bookings, Revenue Week on Week Change, RevPAR Week on Week Change, ADR Week on Week Change, DSRN Week on Week Change etc.
 Leveraged DAX functions to perform aggregations, time intelligence, and other analytical tasks.
 
-**5. Dashboard Creation:**
+**5. Dashboard Creation :**
 Created visualizations like charts, tables, and graphs to represent the data.
 Chose appropriate visualization types based on the nature of the data and the insights that I wanted to convey.
 
@@ -102,15 +102,15 @@ By implementing the Revenue Insights - Hospitality project, hospitality business
 # Recommendations
 Based on the analysis of revenue insights, the following recommendations are proposed to enhance revenue performance in the hospitality industry:
 
-**1. Optimize Pricing Strategies:** Implement dynamic pricing models based on demand fluctuations and market trends to maximize revenue.
+**1. Optimize Pricing Strategies :** Implement dynamic pricing models based on demand fluctuations and market trends to maximize revenue.
 
-**2. Customer segmentation:** Segment customers based on spending patterns and preferences to tailor marketing efforts and enhance customer loyalty.
+**2. Customer segmentation :** Segment customers based on spending patterns and preferences to tailor marketing efforts and enhance customer loyalty.
 
-**3. Inventory Optimization:** Optimize inventory management processes to minimize revenue leakage and maximize utilization of available resources.
+**3. Inventory Optimization :** Optimize inventory management processes to minimize revenue leakage and maximize utilization of available resources.
 
-**4. Enhance Customer Experience:** Identify opportunities to enhance the overall customer experience through personalized offerings, loyalty programs, and service improvements.
+**4. Enhance Customer Experience :** Identify opportunities to enhance the overall customer experience through personalized offerings, loyalty programs, and service improvements.
 
-**5. Improve Operational Efficiency:** Identify operational inefficiencies and cost-saving opportunities to improve profitability.
+**5. Improve Operational Efficiency :** Identify operational inefficiencies and cost-saving opportunities to improve profitability.
 
 # Conclusion
 The Revenue Insights - Hospitality project aims to leverage data analytics to unlock valuable insights and drive strategic decision-making in the hospitality sector. By analyzing revenue data and providing actionable recommendations, this project will empower organizations to maximize revenue potential and achieve sustainable growth in a competitive market environment.
