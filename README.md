@@ -1,6 +1,17 @@
 # Revenue Insights - Hospitality
 The project aims to analyze revenue data from various facets of the hospitality industry to provide actionable insights and recommendations to stakeholders. By leveraging data analytics techniques, the project seeks to uncover trends, patterns, and opportunities to optimize revenue generation and enhance profitability for hospitality businesses.
 
+# Sections
+- Project Objective
+- Data Overvview
+- Key Features
+- Methodology
+- Key Metrics Tracked
+- Key Findings
+- Impact
+- Recommendations
+- Conclusion
+
 # Project Objective
 The main objective of this project is to analyze revenue data within the hospitality industry to uncover insights and provide actionable recommendations for optimizing revenue streams and enhancing overall profitability.
 
@@ -8,16 +19,16 @@ The main objective of this project is to analyze revenue data within the hospita
 The dataset used for this project consists of historical revenue data collected from various segments within the hospitality industry, across different zones in India. The data includes information on room bookings, booking platforms, capacity, ratings given, customer demographics, and other revenue-generating activities. The data is structured and consists of multiple tables, including bookings, transactions, customer demographics, and contains both numerical and categorical variables, requiring preprocessing and cleaning before analysis. The dataset is sourced from reputable industry databases, proprietary company data, and publicly available datasets to ensure comprehensive coverage and accuracy.
 
 # Key Features
-1.Data-driven Decision Making :
+- Data-driven Decision Making :
 Harness the power of data to make informed decisions. The Revenue Insights Dashboard consolidates and visualizes key revenue metrics, allowing stakeholders to quickly understand and act upon performance trends.
 
-2.Hotel Performance Metrics :
+- Hotel Performance Metrics :
 Tracks and analyzes critical performance indicators specific to the hospitality industry, such as room occupancy rates, average daily rate (ADR), revenue per available room (RevPAR), and more. Gains a holistic view of the factors influencing revenue generation.
 
-3.Trend Analysis and Historical Comparison :
+- Trend Analysis and Historical Comparison :
 Visualizes revenue trends over time and compares historical performance to identify growth opportunities and potential challenges. Leverages insights from past data to make strategic decisions for the future.
 
-4.Goal Tracking and Performance Benchmarks :
+- Goal Tracking and Performance Benchmarks :
 Set revenue targets and track performance against benchmarks. The dashboard provides a real-time view of progress toward goals, enabling proactive adjustments to strategies to meet or exceed revenue expectations.
 
 # Methodology
@@ -42,17 +53,17 @@ Created visualizations like charts, tables, and graphs to represent the data.
 Chose appropriate visualization types based on the nature of the data and the insights that I wanted to convey.
 
 # Key Metrics Tracked
-Revenue : Total revenue generated
+- Revenue : Total revenue generated
 
-RevPAR (Revenue per Available Rooms) : RevPAR represents the revenue generated per available room, whether or not they are occupied. 
+- RevPAR (Revenue per Available Rooms) : RevPAR represents the revenue generated per available room, whether or not they are occupied. 
 
-DSRN (Daily Sellable Room Nights) : It means on an average how many rooms are ready to sell for a day considering a time period.
+- DSRN (Daily Sellable Room Nights) : It means on an average how many rooms are ready to sell for a day considering a time period.
 
-Occupancy % : Occupancy means total successful bookings happened to the total rooms available(capacity).
+- Occupancy % : Occupancy means total successful bookings happened to the total rooms available(capacity).
 
-ADR (Average Daily Rate) : It is the ratio of revenue to the total rooms booked/sold. It is the measure of the average paid for rooms sold in a given time period.
+- ADR (Average Daily Rate) : It is the ratio of revenue to the total rooms booked/sold. It is the measure of the average paid for rooms sold in a given time period.
 
-Realisation % : It is nothing but the successful "checked out" percentage over all bookings happened. It means on an average how many rooms are ready to sell for a day considering a time period.
+- Realisation % : It is nothing but the successful "checked out" percentage over all bookings happened. It means on an average how many rooms are ready to sell for a day considering a time period.
 
 # Key Findings
 1.Mumbai has highest revenue generated especially in the of May as compared to other cities.
@@ -71,10 +82,10 @@ Realisation % : It is nothing but the successful "checked out" percentage over a
 
 # Impact
 By implementing the Revenue Insights - Hospitality project, hospitality businesses can expect to:
-Improve understanding of customer behavior and preferences.
-Enhance strategic decision-making based on real-time insights.
-Optimize pricing strategies to maximize revenue per available room.
-Identify and capitalize on revenue growth opportunities.
+- Improve understanding of customer behavior and preferences.
+- Enhance strategic decision-making based on real-time insights.
+- Optimize pricing strategies to maximize revenue per available room.
+- Identify and capitalize on revenue growth opportunities.
 
 # Recommendations
 Based on the analysis of revenue insights, the following recommendations are proposed to enhance revenue performance in the hospitality industry:
