@@ -1,13 +1,13 @@
-# Revenue-Insights---Hospitality
+# Revenue Insights - Hospitality
 The project aims to analyze revenue data from various facets of the hospitality industry to provide actionable insights and recommendations to stakeholders. By leveraging data analytics techniques, the project seeks to uncover trends, patterns, and opportunities to optimize revenue generation and enhance profitability for hospitality businesses.
 
-#Project Objective
+# Project Objective
 The main objective of this project is to analyze revenue data within the hospitality industry to uncover insights and provide actionable recommendations for optimizing revenue streams and enhancing overall profitability.
 
-#Data Overview
+# Data Overview
 The dataset used for this project consists of historical revenue data collected from various segments within the hospitality industry, across different zones in India. The data includes information on room bookings, booking platforms, capacity, ratings given, customer demographics, and other revenue-generating activities. The data is structured and consists of multiple tables, including bookings, transactions, customer demographics, and contains both numerical and categorical variables, requiring preprocessing and cleaning before analysis. The dataset is sourced from reputable industry databases, proprietary company data, and publicly available datasets to ensure comprehensive coverage and accuracy.
 
-#Key Features
+# Key Features
 1.Data-driven Decision Making :
 Harness the power of data to make informed decisions. The Revenue Insights Dashboard consolidates and visualizes key revenue metrics, allowing stakeholders to quickly understand and act upon performance trends.
 
@@ -20,7 +20,7 @@ Visualizes revenue trends over time and compares historical performance to ident
 4.Goal Tracking and Performance Benchmarks :
 Set revenue targets and track performance against benchmarks. The dashboard provides a real-time view of progress toward goals, enabling proactive adjustments to strategies to meet or exceed revenue expectations.
 
-#Methodology
+# Methodology
 1.Defined Objectives and Requirements:
 Understood the business requirements.
 Defined the key performance indicators (KPIs) and metrics that need to be visualized. For e.g. RevPAR, DSRN, ADR, Occupancy %, Realisation % etc.
@@ -41,7 +41,7 @@ Leveraged DAX functions to perform aggregations, time intelligence, and other an
 Created visualizations like charts, tables, and graphs to represent the data.
 Chose appropriate visualization types based on the nature of the data and the insights that I wanted to convey.
 
-#Key Metrics Tracked
+# Key Metrics Tracked
 Revenue : Total revenue generated
 
 RevPAR (Revenue per Available Rooms) : RevPAR represents the revenue generated per available room, whether or not they are occupied. 
@@ -54,7 +54,7 @@ ADR (Average Daily Rate) : It is the ratio of revenue to the total rooms booked/
 
 Realisation % : It is nothing but the successful "checked out" percentage over all bookings happened. It means on an average how many rooms are ready to sell for a day considering a time period.
 
-#Key Findings
+# Key Findings
 1.Mumbai has highest revenue generated especially in the of May as compared to other cities.
 2.Delhi has lowest revenue generated especially in the of July as compared to other cities.
 3.Overall "Elite" room type has highest revenue generated where as "Standard" room type has the lowest.
@@ -69,14 +69,14 @@ Realisation % : It is nothing but the successful "checked out" percentage over a
 12.Overall occupancy % is more on weekend(Friday, Saturday in Hospitality Industry) than the weekday.
 13.Overall category "Luxury" has contribution of 61% in total revenue generation which is more than category "Business".
 
-#Impact
+# Impact
 By implementing the Revenue Insights - Hospitality project, hospitality businesses can expect to:
 Improve understanding of customer behavior and preferences.
 Enhance strategic decision-making based on real-time insights.
 Optimize pricing strategies to maximize revenue per available room.
 Identify and capitalize on revenue growth opportunities.
 
-#Recommendations
+# Recommendations
 Based on the analysis of revenue insights, the following recommendations are proposed to enhance revenue performance in the hospitality industry:
 1.Optimize Pricing Strategies: Implement dynamic pricing models based on demand fluctuations and market trends to maximize revenue.
 2.Customer segmentation: Segment customers based on spending patterns and preferences to tailor marketing efforts and enhance customer loyalty.
@@ -84,5 +84,5 @@ Based on the analysis of revenue insights, the following recommendations are pro
 4.Enhance Customer Experience: Identify opportunities to enhance the overall customer experience through personalized offerings, loyalty programs, and service improvements.
 5.Improve Operational Efficiency: Identify operational inefficiencies and cost-saving opportunities to improve profitability.
 
-#Conclusion
+# Conclusion
 The Revenue Insights - Hospitality project aims to leverage data analytics to unlock valuable insights and drive strategic decision-making in the hospitality sector. By analyzing revenue data and providing actionable recommendations, this project will empower organizations to maximize revenue potential and achieve sustainable growth in a competitive market environment.
