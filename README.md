@@ -67,17 +67,29 @@ Chose appropriate visualization types based on the nature of the data and the in
 
 # Key Findings
 1.Mumbai has highest revenue generated especially in the of May as compared to other cities.
+
 2.Delhi has lowest revenue generated especially in the of July as compared to other cities.
+
 3.Overall "Elite" room type has highest revenue generated where as "Standard" room type has the lowest.
+
 4.Overall total revenue generation took pick in the month of May where as it brought down in the month of July.
+
 5.Mumbai has highest value of RevPAR where as Hyderabad has the lowest one.
+
 6.Overall "Presidential" room type has highest RevPAR where as "Standard" room type has the lowest.
+
 7.Overall RevPAR took high in the month of May where as it went down in July.
+
 8.Overall RevPAR is high on weekend than the weekday.
+
 9.Delhi has highest occupancy % where as Bangalore has the lowest one.
+
 10.Overall "Presidential" room type has highest occupancy % where as "Premium" room type has lowest.
+
 11.Overall occupancy % took high in the month of May where as it went down in July.
+
 12.Overall occupancy % is more on weekend(Friday, Saturday in Hospitality Industry) than the weekday.
+
 13.Overall category "Luxury" has contribution of 61% in total revenue generation which is more than category "Business".
 
 # Impact
