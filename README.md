@@ -68,31 +68,30 @@ Chose appropriate visualization types based on the nature of the data and the in
 - **Realisation % :** It is nothing but the successful "checked out" percentage over all bookings happened. It means on an average how many rooms are ready to sell for a day considering a time period.
 
 # Key Findings
-1. Mumbai has highest revenue generated especially in the of May as compared to other cities.
+**1.Revenue Generation by City and Month:**
+- Mumbai generated the highest revenue of 660.64M, particularly in May, compared to other cities.
+- Delhi generated the lowest revenue of 290.92M, particularly in July, compared to other cities.
 
-2. Delhi has lowest revenue generated especially in the of July as compared to other cities.
+**2.Revenue by Room Type:**
+- The "Elite" room type generated the highest revenue of 553.74M overall, whereas the "Standard" room type generated the lowest revenue of 305.64M.
 
-3. Overall "Elite" room type has highest revenue generated where as "Standard" room type has the lowest.
+**3.Monthly Revenue Trends:**
+- Total revenue peaked in May and declined in July.
 
-4. Overall total revenue generation took pick in the month of May where as it brought down in the month of July.
+**4.Revenue per Available Room (RevPAR):**
+- Mumbai had the highest RevPAR of 8897, while Hyderabad had the lowest RevPAR of 5405.
+- The "Presidential" room type had the highest RevPAR of 13858, while the "Standard" room type had the lowest RevPAR of 4652.
+- RevPAR peaked in May and declined in July.
+- Overall, RevPAR was higher on weekends than on weekdays.
 
-5. Mumbai has highest value of RevPAR where as Hyderabad has the lowest one.
+**5.Occupancy Percentage:**
+- Delhi had the highest occupancy percentage of 60.44%, whereas Bangalore had the lowest occupancy percentage of 55.68%.
+- The "Presidential" room type had the highest occupancy percentage of 59.14%, while the "Premium" room type had the lowest occupancy percentage of 57.49%.
+- Occupancy percentage peaked in May and declined in July.
+- Overall, occupancy percentage was higher on weekends (Friday and Saturday) than on weekdays.
 
-6. Overall "Presidential" room type has highest RevPAR where as "Standard" room type has the lowest.
-
-7. Overall RevPAR took high in the month of May where as it went down in July.
-
-8. Overall RevPAR is high on weekend than the weekday.
-
-9. Delhi has highest occupancy % where as Bangalore has the lowest one.
-
-10. Overall "Presidential" room type has highest occupancy % where as "Premium" room type has lowest.
-
-11. Overall occupancy % took high in the month of May where as it went down in July.
-
-12. Overall occupancy % is more on weekend(Friday, Saturday in Hospitality Industry) than the weekday.
-
-13. Overall category "Luxury" has contribution of 61% in total revenue generation which is more than category "Business".
+**6.Revenue Contribution by Category:**
+- The "Luxury" category contributed 61% to total revenue generation, surpassing the "Business" category.
 
 # Impact
 By implementing the Revenue Insights - Hospitality project, hospitality businesses can expect to:
