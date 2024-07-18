@@ -16,7 +16,9 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 The main objective of this project is to analyze revenue data within the hospitality industry to uncover insights and provide actionable recommendations for optimizing revenue streams and enhancing overall profitability.
 
 # Data Overview
-The dataset used for this project consists of historical revenue data collected from various segments within the hospitality industry, across different zones in India. The data includes information on room bookings, booking platforms, capacity, ratings given, customer demographics, and other revenue-generating activities. The data is structured and consists of multiple tables, including bookings, transactions, customer demographics, and contains both numerical and categorical variables, requiring preprocessing and cleaning before analysis. The dataset is sourced from reputable industry databases, proprietary company data, and publicly available datasets to ensure comprehensive coverage and accuracy.
+The dataset used for this project consists of historical revenue data collected from various segments within the hospitality industry, specifically focusing on AtliQ Grands' five-star hotels across different zones in India. This comprehensive dataset includes information on room bookings, booking platforms, hotel capacity, customer ratings, customer demographics, and other revenue-generating activities.
+The data is structured into multiple tables, such as bookings, transactions, and customer demographics. It contains both numerical and categorical variables, requiring preprocessing and cleaning before analysis to ensure accuracy and reliability.
+To provide a holistic view and ensure comprehensive coverage, the dataset is sourced from reputable industry databases, proprietary company data from AtliQ Grands, and publicly available datasets. This diverse sourcing ensures that the data captures a wide range of factors influencing revenue and market share in the luxury/business hotel category.
 
 # Key Features
 - **Data-driven Decision Making :**
