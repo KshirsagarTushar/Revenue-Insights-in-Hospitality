@@ -127,3 +127,9 @@ Based on the analysis of revenue insights, the following recommendations are pro
 
 # Conclusion
 The analysis reveals significant insights into revenue generation dynamics across cities, room types, and timeframes. Mumbai's leading revenue performance and the dominance of the "Elite" and "Presidential" room types indicate potential areas for targeted marketing and service enhancement. The seasonal peak in May suggests opportunities for promotional strategies during this period. The higher weekend performance across various metrics underlines the importance of weekend-specific pricing and offers. By leveraging these insights, AtliQ Grands can make informed decisions to regain market share and boost revenue.
+
+# LinkedIn Post
+LinkedIn Post
+
+# NovyPro.com
+<a href="https://www.novypro.com/profile_projects/tusharkshirsagar?Popup=memberProject&Data=1713601795516x195108924607042750">Revenue Insights - Hospitality
