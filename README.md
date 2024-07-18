@@ -94,7 +94,7 @@ Chose appropriate visualization types based on the nature of the data and the in
 - The "Luxury" category contributed 61% to total revenue generation, surpassing the "Business" category.
 
 # Impact
-By implementing the Revenue Insights - Hospitality project, hospitality businesses can expect to:
+By implementing this project, hospitality businesses can expect to:
 - Improve understanding of customer behavior and preferences.
 - Enhance strategic decision-making based on real-time insights.
 - Optimize pricing strategies to maximize revenue per available room.
