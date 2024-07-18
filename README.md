@@ -10,6 +10,9 @@ Hospitality
 # Tools
 Microsoft Power BI
 
+# Video
+<a href="https://drive.google.com/file/d/100OJh4dz3nt5QOP6rycdKA_F_Xj-Zaor/view?usp=drive_link">Revenue Insights - Hospitality
+
 # Sections
 - Project Objective
 - Data Overvview
