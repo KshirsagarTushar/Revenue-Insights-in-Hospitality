@@ -21,16 +21,16 @@ The data is structured into multiple tables, such as bookings, transactions, and
 To provide a holistic view and ensure comprehensive coverage, the dataset is sourced from reputable industry databases, proprietary company data from AtliQ Grands, and publicly available datasets. This diverse sourcing ensures that the data captures a wide range of factors influencing revenue and market share in the luxury/business hotel category.
 
 # Key Features
-- **Data-driven Decision Making :**
+**1.** **Data-driven Decision Making :**
 Harness the power of data to make informed decisions. The Revenue Insights Dashboard consolidates and visualizes key revenue metrics, allowing stakeholders to quickly understand and act upon performance trends.
 
-- **Hotel Performance Metrics :**
+**2.** **Hotel Performance Metrics :**
 Tracks and analyzes critical performance indicators specific to the hospitality industry, such as room occupancy rates, average daily rate (ADR), revenue per available room (RevPAR), and more. Gains a holistic view of the factors influencing revenue generation.
 
-- **Trend Analysis and Historical Comparison :**
+**3.** **Trend Analysis and Historical Comparison :**
 Visualizes revenue trends over time and compares historical performance to identify growth opportunities and potential challenges. Leverages insights from past data to make strategic decisions for the future.
 
-- **Goal Tracking and Performance Benchmarks :**
+**4.** **Goal Tracking and Performance Benchmarks :**
 Set revenue targets and track performance against benchmarks. The dashboard provides a real-time view of progress toward goals, enabling proactive adjustments to strategies to meet or exceed revenue expectations.
 
 # Methodology
