@@ -26,8 +26,11 @@ Microsoft Power BI
 
 # Project Objectives
 - To examine past revenue data to identify patterns and trends across various segments within AtliQ Grands' five-star hotels.
+
 - To define and track critical KPIs such as RevPAR, ADR, Occupancy %, and Realization % to measure hotel performance accurately.
+
 - To develop a comprehensive dashboard to visualize key revenue metrics, enabling stakeholders to make informed decisions quickly.
+
 - To provide actionable recommendations based on data analysis to support management in making strategic decisions to boost revenue and regain market share.
 
 # Data Overview
