@@ -1,16 +1,16 @@
  # REVENUE INSIGHTS - HOSPITALITY
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights. Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
-# Technology
+# Technology �
 Business Intelligence
 
-# Domain
+# Domain 🛒
 Hospitality
 
-# Tools
+# Tools 🛠
 Microsoft Power BI
 
-# Video
+# Video 🎬
 <a href="https://drive.google.com/file/d/100OJh4dz3nt5QOP6rycdKA_F_Xj-Zaor/view?usp=drive_link">Revenue Insights - Hospitality
 
 # Sections
@@ -24,7 +24,7 @@ Microsoft Power BI
 - Recommendations
 - Conclusion
 
-# Project Objectives
+# Project Objectives 🎯
 - To examine past revenue data to identify patterns and trends across various segments within AtliQ Grands' five-star hotels.
 
 - To define and track critical KPIs such as RevPAR, ADR, Occupancy %, and Realization % to measure hotel performance accurately.
@@ -33,7 +33,7 @@ Microsoft Power BI
 
 - To provide actionable recommendations based on data analysis to support management in making strategic decisions to boost revenue and regain market share.
 
-# Data Overview
+# Data Overview 📀
 The dataset used for this project consists of historical revenue data collected from various segments within the hospitality industry, specifically focusing on AtliQ Grands' five-star hotels across different zones in India. This comprehensive dataset includes information on room bookings, booking platforms, hotel capacity, customer ratings, customer demographics, and other revenue-generating activities.
 The data is structured into multiple tables, such as bookings, transactions, and customer demographics. It contains both numerical and categorical variables, requiring preprocessing and cleaning before analysis to ensure accuracy and reliability.
 To provide a holistic view and ensure comprehensive coverage, the dataset is sourced from reputable industry databases, proprietary company data from AtliQ Grands, and publicly available datasets. This diverse sourcing ensures that the data captures a wide range of factors influencing revenue and market share in the luxury/business hotel category.
@@ -131,10 +131,10 @@ Based on the analysis of revenue insights, the following recommendations are pro
 
 **5. Improve Operational Efficiency :** Identify operational inefficiencies and cost-saving opportunities to improve profitability.
 
-# Conclusion
+# Conclusion 💡
 The analysis reveals significant insights into revenue generation dynamics across cities, room types, and timeframes. Mumbai's leading revenue performance and the dominance of the "Elite" and "Presidential" room types indicate potential areas for targeted marketing and service enhancement. The seasonal peak in May suggests opportunities for promotional strategies during this period. The higher weekend performance across various metrics underlines the importance of weekend-specific pricing and offers. By leveraging these insights, AtliQ Grands can make informed decisions to regain market share and boost revenue.
 
-# LinkedIn Post
+# LinkedIn Post 📲
 LinkedIn Post
 
 # NovyPro.com
