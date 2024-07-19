@@ -14,8 +14,8 @@ Microsoft Power BI
 <a href="https://drive.google.com/file/d/100OJh4dz3nt5QOP6rycdKA_F_Xj-Zaor/view?usp=drive_link">Revenue Insights - Hospitality
 
 # Sections
-- Project Objective
-- Data Overvview
+- Project Objectives
+- Data Overview
 - Key Features
 - Methodology
 - Key Metrics Tracked
@@ -24,8 +24,11 @@ Microsoft Power BI
 - Recommendations
 - Conclusion
 
-# Project Objective
-The main objective of this project is to analyze revenue data within the hospitality industry to uncover insights and provide actionable recommendations for optimizing revenue streams and enhancing overall profitability.
+# Project Objectives
+- To examine past revenue data to identify patterns and trends across various segments within AtliQ Grands' five-star hotels.
+- To define and track critical KPIs such as RevPAR, ADR, Occupancy %, and Realization % to measure hotel performance accurately.
+- To develop a comprehensive dashboard to visualize key revenue metrics, enabling stakeholders to make informed decisions quickly.
+- To provide actionable recommendations based on data analysis to support management in making strategic decisions to boost revenue and regain market share.
 
 # Data Overview
 The dataset used for this project consists of historical revenue data collected from various segments within the hospitality industry, specifically focusing on AtliQ Grands' five-star hotels across different zones in India. This comprehensive dataset includes information on room bookings, booking platforms, hotel capacity, customer ratings, customer demographics, and other revenue-generating activities.
