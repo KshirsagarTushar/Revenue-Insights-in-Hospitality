@@ -140,4 +140,4 @@ The analysis reveals significant insights into revenue generation dynamics acros
 # Relevant Links 🔗
 LinkedIn Post
 
-<a href="https://www.novypro.com/profile_projects/tusharkshirsagar?Popup=memberProject&Data=1713601795516x195108924607042750">NovyPro.com(Revenue Insights - Hospitality)
+<a href="https://www.novypro.com/profile_projects/tusharkshirsagar?Popup=memberProject&Data=1713601795516x195108924607042750">NovyPro.com (Revenue Insights - Hospitality)
