@@ -140,5 +140,5 @@ The analysis reveals significant insights into revenue generation dynamics acros
 # LinkedIn Post 🔗
 LinkedIn Post
 
-# NovyPro.com ![NovyPro Icon](https://www.google.com/imgres?q=novypro%20icon%20for%20github%20readme%20file&imgurl=https%3A%2F%2Fglobal.discourse-cdn.com%2Fstandard17%2Fuploads%2Fnovypro%2Foriginal%2F1X%2F2e9506ba77954a9e3f4761b94b606c3a261985ec.png&imgrefurl=https%3A%2F%2Fforum.novypro.com%2F&docid=Stjfn4-lysjRKM&tbnid=DATVJ8zvHh0K0M&vet=12ahUKEwi2reuP7beHAxUgVmwGHe-_Cl0QM3oECBgQAA..i&w=1500&h=1500&hcb=2&ved=2ahUKEwi2reuP7beHAxUgVmwGHe-_Cl0QM3oECBgQAA)
+# NovyPro.com 🌐
 <a href="https://www.novypro.com/profile_projects/tusharkshirsagar?Popup=memberProject&Data=1713601795516x195108924607042750">Revenue Insights - Hospitality
