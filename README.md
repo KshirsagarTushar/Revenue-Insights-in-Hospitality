@@ -1,19 +1,22 @@
 # REVENUE INSIGHTS - HOSPITALITY
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights. Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
-# Technology �
+# Technology 🖥️
 Business Intelligence
 
-# Domain 🛒
+# Domain 🏨
 Hospitality
 
 # Tools 🛠
 Microsoft Power BI
 
+# Dashboard 📊
+<a href="https://www.novypro.com/profile_projects/tusharkshirsagar?Popup=memberProject&Data=1713601795516x195108924607042750">Revenue Insights - Hospitality
+
 # Video 🎬
 <a href="https://drive.google.com/file/d/100OJh4dz3nt5QOP6rycdKA_F_Xj-Zaor/view?usp=drive_link">Revenue Insights - Hospitality
 
-# Sections
+# Sections 📂
 - Project Objectives
 - Data Overview
 - Key Features
@@ -33,12 +36,12 @@ Microsoft Power BI
 
 - To provide actionable recommendations based on data analysis to support management in making strategic decisions to boost revenue and regain market share.
 
-# Data Overview 📀
+# Data Overview 📑
 The dataset used for this project consists of historical revenue data collected from various segments within the hospitality industry, specifically focusing on AtliQ Grands' five-star hotels across different zones in India. This comprehensive dataset includes information on room bookings, booking platforms, hotel capacity, customer ratings, customer demographics, and other revenue-generating activities.
 The data is structured into multiple tables, such as bookings, transactions, and customer demographics. It contains both numerical and categorical variables, requiring preprocessing and cleaning before analysis to ensure accuracy and reliability.
 To provide a holistic view and ensure comprehensive coverage, the dataset is sourced from reputable industry databases, proprietary company data from AtliQ Grands, and publicly available datasets. This diverse sourcing ensures that the data captures a wide range of factors influencing revenue and market share in the luxury/business hotel category.
 
-# Key Features
+# Key Features 🔑
 - **Data-driven Decision Making :**
 Harness the power of data to make informed decisions. The Revenue Insights Dashboard consolidates and visualizes key revenue metrics, allowing stakeholders to quickly understand and act upon performance trends.
 
@@ -51,7 +54,7 @@ Visualizes revenue trends over time and compares historical performance to ident
 - **Goal Tracking and Performance Benchmarks :**
 Set revenue targets and track performance against benchmarks. The dashboard provides a real-time view of progress toward goals, enabling proactive adjustments to strategies to meet or exceed revenue expectations.
 
-# Methodology
+# Methodology 📋
 **1. Defined Objectives and Requirements :**
 Understood the business requirements.
 Defined the key performance indicators (KPIs) and metrics that need to be visualized. For e.g. RevPAR, DSRN, ADR, Occupancy %, Realisation % etc.
@@ -72,7 +75,7 @@ Leveraged DAX functions to perform aggregations, time intelligence, and other an
 Created visualizations like charts, tables, and graphs to represent the data.
 Chose appropriate visualization types based on the nature of the data and the insights that I wanted to convey.
 
-# Key Metrics Tracked
+# Key Metrics Tracked 📈
 - **Revenue :** Total revenue generated
 
 - **RevPAR (Revenue per Available Rooms) :** RevPAR represents the revenue generated per available room, whether or not they are occupied. 
@@ -85,7 +88,7 @@ Chose appropriate visualization types based on the nature of the data and the in
 
 - **Realisation % :** It is nothing but the successful "checked out" percentage over all bookings happened. It means on an average how many rooms are ready to sell for a day considering a time period.
 
-# Key Findings
+# Key Findings 🔍
 **1. Revenue Generation by City and Month:**
 - Mumbai generated the highest revenue of 660.64M, particularly in May, compared to other cities.
 - Delhi generated the lowest revenue of 290.92M, particularly in July, compared to other cities.
@@ -111,14 +114,14 @@ Chose appropriate visualization types based on the nature of the data and the in
 **6. Revenue Contribution by Category:**
 - The "Luxury" category contributed 61% to total revenue generation, surpassing the "Business" category.
 
-# Impact
+# Impact 🌟
 By implementing this project, hospitality businesses can expect to:
 - Improve understanding of customer behavior and preferences.
 - Enhance strategic decision-making based on real-time insights.
 - Optimize pricing strategies to maximize revenue per available room.
 - Identify and capitalize on revenue growth opportunities.
 
-# Recommendations
+# Recommendations 💡
 Based on the analysis of revenue insights, the following recommendations are proposed to enhance revenue performance in the hospitality industry:
 
 **1. Optimize Pricing Strategies :** Implement dynamic pricing models based on demand fluctuations and market trends to maximize revenue.
@@ -131,11 +134,11 @@ Based on the analysis of revenue insights, the following recommendations are pro
 
 **5. Improve Operational Efficiency :** Identify operational inefficiencies and cost-saving opportunities to improve profitability.
 
-# Conclusion 💡
+# Conclusion 📝
 The analysis reveals significant insights into revenue generation dynamics across cities, room types, and timeframes. Mumbai's leading revenue performance and the dominance of the "Elite" and "Presidential" room types indicate potential areas for targeted marketing and service enhancement. The seasonal peak in May suggests opportunities for promotional strategies during this period. The higher weekend performance across various metrics underlines the importance of weekend-specific pricing and offers. By leveraging these insights, AtliQ Grands can make informed decisions to regain market share and boost revenue.
 
-# LinkedIn Post 📲
+# LinkedIn Post 🔗
 LinkedIn Post
 
-# NovyPro Dashboard
+# NovyPro.com 🌐
 <a href="https://www.novypro.com/profile_projects/tusharkshirsagar?Popup=memberProject&Data=1713601795516x195108924607042750">Revenue Insights - Hospitality
