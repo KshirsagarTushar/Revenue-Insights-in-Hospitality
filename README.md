@@ -4,7 +4,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 # Technology 🖥️
 Business Intelligence
 
-# Domain 🌍
+# Domain 🌐
 Hospitality
 
 # Tools 🛠
@@ -140,5 +140,5 @@ The analysis reveals significant insights into revenue generation dynamics acros
 # LinkedIn Post 🔗
 LinkedIn Post
 
-# NovyPro.com 🌐
+# NovyPro.com 🖼️
 <a href="https://www.novypro.com/profile_projects/tusharkshirsagar?Popup=memberProject&Data=1713601795516x195108924607042750">Revenue Insights - Hospitality
