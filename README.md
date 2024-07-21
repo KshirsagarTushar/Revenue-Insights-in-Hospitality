@@ -4,7 +4,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 # Technology 🖥️
 Business Intelligence
 
-# Domain 🏨
+# Domain 🌍
 Hospitality
 
 # Tools 🛠
