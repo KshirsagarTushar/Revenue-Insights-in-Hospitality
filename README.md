@@ -17,7 +17,7 @@ Microsoft Power BI
 <a href="https://drive.google.com/file/d/100OJh4dz3nt5QOP6rycdKA_F_Xj-Zaor/view?usp=drive_link">Revenue Insights - Hospitality
 
 # Sections 📂
-- Project Objectives
+- Project Objective
 - Data Overview
 - Key Features
 - Methodology
@@ -26,18 +26,10 @@ Microsoft Power BI
 - Impact
 - Recommendations
 - Conclusion
-
-# Project Objectives 🎯
-- To examine past revenue data to identify patterns and trends across various segments within AtliQ Grands' five-star hotels.
-
-- To define and track critical KPIs such as RevPAR, ADR, Occupancy %, and Realization % to measure hotel performance accurately.
-
-- To develop a comprehensive dashboard to visualize key revenue metrics, enabling stakeholders to make informed decisions quickly.
-
-- To provide actionable recommendations based on data analysis to support management in making strategic decisions to boost revenue and regain market share.
+- Relevant Links
 
 # Project Objective 🎯
-The primary objectives of the project are to examine past revenue data to identify patterns and trends across various segments within AtliQ Grands' five-star hotels and to define and track critical KPIs such as RevPAR, ADR, Occupancy %, and Realization % to measure hotel performance accurately. Additionally, the project aims to develop a comprehensive dashboard to visualize key revenue metrics, enabling stakeholders to make informed decisions quickly. Finally, the project seeks to provide actionable recommendations based on data analysis to support management in making strategic decisions to boost revenue and regain market share.
+The primary objectives of the project are to examine past revenue data to identify patterns and trends across various segments within AtliQ Grands' five-star hotels and to define and track critical KPIs such as RevPAR, ADR, Occupancy %, and Realization % to measure hotel performance accurately. Furthermore, the project aims to develop a comprehensive dashboard to visualize key revenue metrics, enabling stakeholders to make informed decisions quickly. Ultimately, the goal is to provide actionable recommendations based on data analysis to support management in making strategic decisions to boost revenue and regain market share.
 
 # Data Overview 📑
 The dataset used for this project consists of historical revenue data collected from various segments within the hospitality industry, specifically focusing on AtliQ Grands' five-star hotels across different zones in India. This comprehensive dataset includes information on room bookings, booking platforms, hotel capacity, customer ratings, customer demographics, and other revenue-generating activities.
