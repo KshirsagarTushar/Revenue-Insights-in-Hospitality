@@ -1,5 +1,5 @@
 # REVENUE INSIGHTS - HOSPITALITY
-AtliQ Grands, a prominent chain of five-star hotels across India, has been a key player in the hospitality industry for the past two decades. Recently, the company has faced challenges due to strategic maneuvers by competitors and suboptimal management decisions, leading to a decline in market share and revenue within the luxury and business hotel segments.To address these challenges, AtliQ Grands has embarked on a strategic initiative to integrate Business and Data Intelligence. The primary goal is to harness data analytics to gain insights and make informed decisions that will help regain market share and boost revenue.
+AtliQ Grands, a prominent chain of five-star hotels across India, has been a key player in the hospitality industry for the past two decades. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury and business hotels category. To address these challenges, AtliQ Grands has embarked on a strategic initiative to integrate Business and Data Intelligence. The primary goal is to harness data analytics to gain insights and make informed decisions that will help regain market share and boost revenue.
 
 # Technology 🖥️
 Business Intelligence
